@@ -7,3 +7,7 @@ func Foo1() string {
 func Foo2() string {
 	return "foo2"
 }
+
+func Foo3() string {
+	return "foo3"
+}
