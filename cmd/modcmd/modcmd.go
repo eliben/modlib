@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/eliben/modlib/modlib"
+	"github.com/eliben/modlib"
 )
 
 func main() {
