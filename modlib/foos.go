@@ -5,7 +5,7 @@ func Foo1() string {
 }
 
 func Foo2() string {
-	return "foo2"
+	return "foo2 is two"
 }
 
 func Foo3() string {
