@@ -12,11 +12,11 @@ s := modlib.Config()
 clientlib.Hello()
 ```
 
-To use the `server` binary, do:
+To use the `modlib-server` binary, do:
 
 ```
-$ go get github.com/eliben/modlib/cmd/server
-$ server
+$ go get github.com/eliben/modlib/cmd/modlib-server
+$ modlib-server
 ```
 
 All packages in this module are importable by other modules, except for packages
