@@ -18,3 +18,7 @@ To use the `server` binary, do:
 $ go get github.com/eliben/modlib/cmd/server
 $ server
 ```
+
+All packages in this module are importable by other modules, except for packages
+located in the `internal` directory. These can only be used from within the
+module itself, but cannot be imported from the outside.
