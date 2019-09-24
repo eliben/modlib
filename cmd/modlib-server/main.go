@@ -12,5 +12,5 @@ func main() {
 	fmt.Println("Running server")
 	fmt.Println("Config:", modlib.Config())
 	fmt.Println("Auth:", auth.GetAuth())
-	serverlib.Hello()
+	fmt.Println(serverlib.Hello())
 }

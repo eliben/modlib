@@ -10,5 +10,5 @@ import (
 func main() {
 	fmt.Println("Running client")
 	fmt.Println("Config:", modlib.Config())
-	clientlib.Hello()
+	fmt.Println(clientlib.Hello())
 }

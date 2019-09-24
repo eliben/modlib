@@ -1,7 +1,5 @@
 package clientlib
 
-import "fmt"
-
-func Hello() {
-	fmt.Println("Hello from clientlib.Hello")
+func Hello() string {
+	return "clientlib hello"
 }
