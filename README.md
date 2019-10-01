@@ -1,6 +1,8 @@
 Demonstrates the structure of a Go module on GitHub, with multiple packages and
 command-line tools.
 
+For more details see https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/
+
 To use the packages in this module, add an import in Go code and call it:
 
 ```
