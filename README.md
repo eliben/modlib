@@ -22,8 +22,8 @@ $ modlib-server
 ```
 
 All packages in this module are importable by other modules, except for packages
-located in the `internal` directory. These can only be used from within the
-module itself, but cannot be imported from the outside.
+located in the `internal` directory. These can be used from within the module
+itself, but cannot be imported from the outside.
 
 To run all tests in this module:
 
