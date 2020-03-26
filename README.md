@@ -30,3 +30,6 @@ To run all tests in this module:
 ```
 go test ./...
 ```
+
+If you have questions about applyinig this approach, feel free to open a [GitHub issue](https://github.com/eliben/modlib/issues).
+
