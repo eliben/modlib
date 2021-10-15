@@ -1,3 +1,3 @@
 module github.com/eliben/modlib
 
-go 1.12
+go 1.17
