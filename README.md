@@ -3,7 +3,7 @@ command-line tools.
 
 For more details see https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/
 
-To use the packages in this module, add an import in Go code:
+To use packages from this module in your code, add an `import`:
 
 ```
 import "github.com/eliben/modlib"
