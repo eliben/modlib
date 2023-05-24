@@ -17,7 +17,7 @@ h := clientlib.Hello()
 To use the `modlib-server` binary, do:
 
 ```
-$ go get github.com/eliben/modlib/cmd/modlib-server
+$ go install github.com/eliben/modlib/cmd/modlib-server@latest
 $ modlib-server
 ```
 
