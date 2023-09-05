@@ -5,7 +5,7 @@ For more details see https://eli.thegreenplace.net/2019/simple-go-project-layout
 
 To use packages from this module in your code, add an `import`:
 
-```
+```go
 import "github.com/eliben/modlib"
 import "github.com/eliben/modlib/clientlib"
 
